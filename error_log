@@ -1,0 +1,108 @@
+[22-Oct-2019 06:05:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:22 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 189
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/login.php on line 16
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/login.php on line 42
+[22-Oct-2019 06:05:22 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/login.php on line 45
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 11
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 17
+[22-Oct-2019 06:05:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/emyfrien/ujian.emyfriend.com/candycbt-master/config/functions.crud.php on line 70
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 27
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 65
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 68
+[22-Oct-2019 06:05:23 UTC] PHP Notice:  Undefined variable: setting in /home/emyfrien/ujian.emyfriend.com/candycbt-master/index.php on line 1237
+[22-Oct-2019 06:40:06 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 06:40:06 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 06:40:06 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 06:40:08 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:06:59 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:06:59 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 3 in /home/emyfrien/ujian.emyfriend.com/index.php on line 816
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 4 in /home/emyfrien/ujian.emyfriend.com/index.php on line 821
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/emyfrien/ujian.emyfriend.com/index.php on line 834
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/emyfrien/ujian.emyfriend.com/index.php on line 838
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 3 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1144
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 4 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1146
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1152
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 2 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1153
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 1 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1131
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 8 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1144
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 9 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1146
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 5 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1151
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 6 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1152
+[22-Oct-2019 14:07:55 Asia/Jakarta] PHP Notice:  Undefined offset: 7 in /home/emyfrien/ujian.emyfriend.com/index.php on line 1153
+[22-Oct-2019 07:18:10 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:18:10 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:18:20 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:18:22 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:18:32 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:19:29 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 07:54:27 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:17:37 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:17:37 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:17:38 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:18:14 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:18:14 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:24:16 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:24:16 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:25:04 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 10:25:04 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:22:43 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:22:43 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:34:36 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:34:36 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:35:03 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:35:03 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:35:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:35:47 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 11:35:48 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 14:36:55 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 14:36:55 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
+[22-Oct-2019 14:36:55 UTC] PHP Notice:  Undefined index: HTTP_REFERER in /home/emyfrien/ujian.emyfriend.com/config/config.default.php on line 26
